@@ -1,0 +1,3 @@
+# Fill in with auth credentials from https://developer.spotify.com/dashboard
+CID = 'DEVELOPER CID HERE'
+Secret = 'SECRET KEY HERE'

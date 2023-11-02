@@ -1,0 +1,105 @@
+City: Moore at 11:47
+
+Cloudy: False, 0 clouds
+
+Time of day: https://vinsweb.org/wp-content/uploads/2020/04/AtHome-Sun-1080x810-1.jpg
+City: Honolulu at 6:47
+
+Cloudy: True, 40 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:28
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:31
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:32
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:32
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:33
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:33
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:34
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:34
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:35
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:36
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:37
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:37
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:37
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:38
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:38
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:39
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Honolulu at 5:39
+
+Cloudy: False, 0 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg
+City: Norman at 10:41
+
+Cloudy: False, 4 clouds
+
+Time of day: https://vinsweb.org/wp-content/uploads/2020/04/AtHome-Sun-1080x810-1.jpg
+City: Honolulu at 6:37
+
+Cloudy: True, 75 clouds
+
+Time of day: https://img.freepik.com/premium-photo/mountain-walls-night-sky-with-stars-moon-clouds_180633-1488.jpg

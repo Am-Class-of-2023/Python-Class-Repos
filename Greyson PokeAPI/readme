@@ -1,0 +1,4 @@
+go to line 217 and change "D:\Code Stuff\Python Project\File Storage\Pokemon Names.txt" to the location the file is in
+import requests
+import json
+from sys import exit
